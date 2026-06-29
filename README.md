@@ -21,4 +21,6 @@ Prosty projekt SQL pokazujący analizę danych sprzedażowych.
 2. Dodaj dane z insert_data.sql
 3. Odpytaj queries.sql
 
+## 🏁 Wyniki
+
 ![Result](result.png)
