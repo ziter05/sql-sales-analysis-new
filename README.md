@@ -20,3 +20,5 @@ Prosty projekt SQL pokazujący analizę danych sprzedażowych.
 1. Uruchom schema.sql
 2. Dodaj dane z insert_data.sql
 3. Odpytaj queries.sql
+
+![Result](result.png)
